@@ -1,6 +1,14 @@
 {
   "transactions": [
     {
+      "id": "mskzgkjy8k79",
+      "category": "groceries",
+      "amount": 1010,
+      "note": "",
+      "date": "2026-08-08",
+      "ts": 1786230398734
+    },
+    {
       "id": "mskzggkk2s1i",
       "category": "food",
       "amount": 720,
@@ -29,5 +37,5 @@
     "overall": 0,
     "categories": {}
   },
-  "updatedAt": "2026-08-08T23:06:34.790Z"
+  "updatedAt": "2026-08-08T23:06:39.956Z"
 }
