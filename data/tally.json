@@ -1,6 +1,14 @@
 {
   "transactions": [
     {
+      "id": "mskzvetu66tj",
+      "category": "food",
+      "amount": 300,
+      "note": "Chafa cafe",
+      "date": "2026-08-08",
+      "ts": 1786231091154
+    },
+    {
       "id": "mskzlhqpk6ad",
       "category": "entertainment",
       "amount": 1300,
@@ -61,5 +69,5 @@
       "entertainment": 6000
     }
   },
-  "updatedAt": "2026-08-08T23:16:27.923Z"
+  "updatedAt": "2026-08-08T23:18:12.382Z"
 }
