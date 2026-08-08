@@ -1,6 +1,14 @@
 {
   "transactions": [
     {
+      "id": "mskzlhqpk6ad",
+      "category": "entertainment",
+      "amount": 1300,
+      "note": "Popcorn",
+      "date": "2026-08-08",
+      "ts": 1786230628369
+    },
+    {
       "id": "mskzl3507hwj",
       "category": "entertainment",
       "amount": 1600,
@@ -50,5 +58,5 @@
       "bills": 3000
     }
   },
-  "updatedAt": "2026-08-08T23:10:10.687Z"
+  "updatedAt": "2026-08-08T23:10:29.596Z"
 }
