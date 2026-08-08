@@ -52,11 +52,14 @@
   "budgets": {
     "overall": 50000,
     "categories": {
+      "food": 7000,
       "transport": 5000,
       "groceries": 5000,
       "rent": 16000,
-      "bills": 3000
+      "bills": 3000,
+      "shopping": 2000,
+      "entertainment": 6000
     }
   },
-  "updatedAt": "2026-08-08T23:10:29.596Z"
+  "updatedAt": "2026-08-08T23:16:11.981Z"
 }
