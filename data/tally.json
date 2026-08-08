@@ -9,14 +9,6 @@
       "ts": 1786231203162
     },
     {
-      "id": "mskzxmm6s399",
-      "category": "transport",
-      "amount": 6698,
-      "note": "Scooty petrol",
-      "date": "2026-08-08",
-      "ts": 1786231194558
-    },
-    {
       "id": "mskzxazwvjov",
       "category": "coffee",
       "amount": 800,
@@ -109,5 +101,5 @@
       "entertainment": 6000
     }
   },
-  "updatedAt": "2026-08-08T23:20:04.384Z"
+  "updatedAt": "2026-08-08T23:25:25.121Z"
 }
