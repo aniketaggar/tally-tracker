@@ -1,6 +1,14 @@
 {
   "transactions": [
     {
+      "id": "mskzx1cp0xfo",
+      "category": "food",
+      "amount": 700,
+      "note": "Vadapo",
+      "date": "2026-08-08",
+      "ts": 1786231167001
+    },
+    {
       "id": "mskzwqiz6qg2",
       "category": "food",
       "amount": 700,
@@ -77,5 +85,5 @@
       "entertainment": 6000
     }
   },
-  "updatedAt": "2026-08-08T23:19:14.191Z"
+  "updatedAt": "2026-08-08T23:19:28.222Z"
 }
