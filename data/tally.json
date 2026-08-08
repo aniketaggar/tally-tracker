@@ -1,6 +1,14 @@
 {
   "transactions": [
     {
+      "id": "mskzxt96px3p",
+      "category": "groceries",
+      "amount": 147,
+      "note": "",
+      "date": "2026-08-08",
+      "ts": 1786231203162
+    },
+    {
       "id": "mskzxmm6s399",
       "category": "transport",
       "amount": 6698,
@@ -101,5 +109,5 @@
       "entertainment": 6000
     }
   },
-  "updatedAt": "2026-08-08T23:19:55.782Z"
+  "updatedAt": "2026-08-08T23:20:04.384Z"
 }
