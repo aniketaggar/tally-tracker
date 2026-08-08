@@ -1,8 +1,17 @@
 {
-  "transactions": [],
+  "transactions": [
+    {
+      "id": "mskzg6mdke48",
+      "category": "transport",
+      "amount": 4000,
+      "note": "Scooty rent",
+      "date": "2026-08-08",
+      "ts": 1786230380677
+    }
+  ],
   "budgets": {
     "overall": 0,
     "categories": {}
   },
-  "updatedAt": "2026-08-08T23:02:51.641Z"
+  "updatedAt": "2026-08-08T23:06:21.915Z"
 }
