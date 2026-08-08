@@ -1,6 +1,14 @@
 {
   "transactions": [
     {
+      "id": "mskzxazwvjov",
+      "category": "coffee",
+      "amount": 800,
+      "note": "Third wqce",
+      "date": "2026-08-08",
+      "ts": 1786231179500
+    },
+    {
       "id": "mskzx1cp0xfo",
       "category": "food",
       "amount": 700,
@@ -85,5 +93,5 @@
       "entertainment": 6000
     }
   },
-  "updatedAt": "2026-08-08T23:19:28.222Z"
+  "updatedAt": "2026-08-08T23:19:40.723Z"
 }
