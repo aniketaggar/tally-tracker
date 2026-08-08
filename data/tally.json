@@ -1,6 +1,14 @@
 {
   "transactions": [
     {
+      "id": "mskzl3507hwj",
+      "category": "entertainment",
+      "amount": 1600,
+      "note": "Movie tickets",
+      "date": "2026-08-08",
+      "ts": 1786230609444
+    },
+    {
       "id": "mskzgkjy8k79",
       "category": "groceries",
       "amount": 1010,
@@ -42,5 +50,5 @@
       "bills": 3000
     }
   },
-  "updatedAt": "2026-08-08T23:07:38.599Z"
+  "updatedAt": "2026-08-08T23:10:10.687Z"
 }
