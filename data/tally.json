@@ -1,6 +1,14 @@
 {
   "transactions": [
     {
+      "id": "mskzggkk2s1i",
+      "category": "food",
+      "amount": 720,
+      "note": "",
+      "date": "2026-08-08",
+      "ts": 1786230393572
+    },
+    {
       "id": "mskzgc1fwt5u",
       "category": "rent",
       "amount": 16000,
@@ -21,5 +29,5 @@
     "overall": 0,
     "categories": {}
   },
-  "updatedAt": "2026-08-08T23:06:28.919Z"
+  "updatedAt": "2026-08-08T23:06:34.790Z"
 }
